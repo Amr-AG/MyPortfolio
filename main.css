@@ -716,6 +716,7 @@ header .right-content img {
 
   .about-section .about-content {
     top: 93px;
+    padding-bottom: 40px;
   }
   .about-section .about-content .cont h2 {
     margin: 50px auto;
