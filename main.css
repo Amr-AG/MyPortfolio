@@ -791,7 +791,7 @@ width:100%;
   }
 
   .about-section .about-content {
-    top: 119px;
+   top: 135px;
   }
   .about-section .about-content .cont .blue-span {
     font-size: 28px;
@@ -809,7 +809,7 @@ width:100%;
   }
 
   .skills-section .skills-content {
-    top: 119px;
+    top: 135px;
     padding: 20px;
     padding-top: 0;
   }
@@ -852,7 +852,7 @@ width:100%;
   }
 
   .projects-section .projects-content {
-    top: 119px;
+  top: 135px;
   }
   .projects-section .projects-content .projects {
     padding-top: 0;
@@ -872,8 +872,8 @@ width:100%;
   }
 
   .contact-section .contact-content {
-    top: 119px;
-    padding: 20px;
+  top: 135px;
+  padding: 20px;
   }
   .contact-section .contact-content .contact {
     padding: 0 5px;
