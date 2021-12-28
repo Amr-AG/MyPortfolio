@@ -361,15 +361,15 @@ width:100%;
 .skills-section .skills-content .skills .sicon {
   color: #e872b3;
 }
-.skills-section .skills-content .skills .E-run {
+.skills-section .skills-content .skills .G-run {
   width: 55%;
   font-size: 18px;
   -webkit-transition: width 2s;
   transition: width 2s;
-  background-color: #186d1b;
+  background-color: #6e5494;
 }
-.skills-section .skills-content .skills .eicon {
-  color: #186d1b;
+.skills-section .skills-content .skills .gicon {
+  color:#6e5494 ;
 }
 
 .projects-section .projects-content {
