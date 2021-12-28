@@ -9,7 +9,7 @@ let html = document.querySelector(".H");
 let css = document.querySelector(".C");
 let js = document.querySelector(".J");
 let sass = document.querySelector(".S");
-let Excel = document.querySelector(".E");
+let Github = document.querySelector(".G");
 
 //sections
 let centerContent = document.querySelector(".center-content");
@@ -35,12 +35,12 @@ home.onclick = () => {
   css.classList.remove("C-run");
   js.classList.remove("J-run");
   sass.classList.remove("S-run");
-  Excel.classList.remove("E-run");
+  Github.classList.remove("G-run");
   html.innerHTML = "";
   css.innerHTML = "";
   js.innerHTML = "";
   sass.innerHTML = "";
-  Excel.innerHTML = "";
+  Github.innerHTML = "";
   aboutSection.style.display = "none";
   skillsSection.style.display = "none";
   projectsSection.style.display = "none";
@@ -52,12 +52,12 @@ about.onclick = () => {
   css.classList.remove("C-run");
   js.classList.remove("J-run");
   sass.classList.remove("S-run");
-  Excel.classList.remove("E-run");
+  Github.classList.remove("G-run");
   html.innerHTML = "";
   css.innerHTML = "";
   js.innerHTML = "";
   sass.innerHTML = "";
-  Excel.innerHTML = "";
+  Github.innerHTML = "";
   centerContent.style.display = "none";
   skillsSection.style.display = "none";
   projectsSection.style.display = "none";
@@ -70,12 +70,12 @@ skills.addEventListener("click", (e) => {
     css.classList.add("C-run");
     js.classList.add("J-run");
     sass.classList.add("S-run");
-    Excel.classList.add("E-run");
+    Github.classList.add("G-run");
     html.innerHTML = "92%";
     css.innerHTML = "90%";
     js.innerHTML = "88%";
     sass.innerHTML = "90%";
-    Excel.innerHTML = "85%";
+    Github.innerHTML = "94%";
   }, 1000);
   aboutSection.style.display = "none";
   centerContent.style.display = "none";
@@ -88,12 +88,12 @@ projects.onclick = () => {
   css.classList.remove("C-run");
   js.classList.remove("J-run");
   sass.classList.remove("S-run");
-  Excel.classList.remove("E-run");
+  Github.classList.remove("G-run");
   html.innerHTML = "";
   css.innerHTML = "";
   js.innerHTML = "";
   sass.innerHTML = "";
-  Excel.innerHTML = "";
+  Github.innerHTML = "";
 
   centerContent.style.display = "none";
   aboutSection.style.display = "none";
@@ -106,12 +106,12 @@ contact.onclick = () => {
   css.classList.remove("C-run");
   js.classList.remove("J-run");
   sass.classList.remove("S-run");
-  Excel.classList.remove("E-run");
+  Github.classList.remove("G-run");
   html.innerHTML = "";
   css.innerHTML = "";
   js.innerHTML = "";
   sass.innerHTML = "";
-  Excel.innerHTML = "";
+  Github.innerHTML = "";
   centerContent.style.display = "none";
   aboutSection.style.display = "none";
   skillsSection.style.display = "none";
