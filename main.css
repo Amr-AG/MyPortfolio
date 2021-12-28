@@ -222,6 +222,7 @@ header .right-content img {
       -ms-flex-direction: column;
           flex-direction: column;
   height: 100%;
+  padding-bottom: 90px;
 }
 .about-section .about-content .cont h2 {
   font-size: 35px;
@@ -270,6 +271,7 @@ header .right-content img {
       -ms-flex-direction: column;
           flex-direction: column;
   z-index: -1;
+  padding-bottom:30px;
 }
 .skills-section .skills-content .headline {
   color: white;
@@ -484,6 +486,7 @@ width:100%;
       -ms-flex-align: center;
           align-items: center;
   z-index: -1;
+  padding-bottom:30px;
 }
 .contact-section .contact-content .contact {
   display: -webkit-box;
