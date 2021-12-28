@@ -659,7 +659,7 @@ width:100%;
 .contact-section .contact-content .contact .social a .twitter {
   color: #1da1f2;
 }
-.contact-section .contact-content .contact .social a .instagram {
+.contact-section .contact-content .contact .social a .instagram:hover {
   background: #f09433;
   background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
 }
