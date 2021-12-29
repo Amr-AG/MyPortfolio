@@ -304,7 +304,7 @@ header .right-content img {
   -webkit-box-shadow: 0 0 0px #2c75ff75, 0 0 15px #2c75ff75;
   box-shadow: 0 0 0px #2c75ff75, 0 0 15px #2c75ff75;
   width: 800px;
-  background-color: #191919;
+  background-color: black;
   margin: 40px auto;
 }
 .skills-section .skills-content .skills span {
@@ -369,10 +369,10 @@ header .right-content img {
   font-size: 18px;
   -webkit-transition: width 2s;
   transition: width 2s;
-  background-color: #6e5494;
+  background-color:#6600fb;
 }
 .skills-section .skills-content .skills .gicon {
-  color: #6e5494;
+  color: #6600fb;
 }
 
 .projects-section .projects-content {
