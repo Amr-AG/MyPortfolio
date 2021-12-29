@@ -1010,4 +1010,14 @@ header .right-content img {
   .skills-section .skills-content .skills {
     width: 90%;
   }
-} /*# sourceMappingURL=main.css.map */
+}
+
+@media (min-width: 1024px) {
+  .contact-section .contact-content {
+    padding: 80px;
+  }
+  .skills-section .skills-content {
+    padding: 80px;
+  }
+}
+/*# sourceMappingURL=main.css.map */
